@@ -1,0 +1,15 @@
+ Seleccionar los Números del RUT sin el Dígito Verificador: 27.962.409
+
+2) Reordenar los Números de Derecha a Izquierda: 9 0 4 2 6 9 7 2
+
+3) Multiplicar Cada Número por la Serie 2, 3, 4, 5, 6, 7 Repetidamente:
+
+4) Sumar Todos los Resultados: 18 + 0 + 16 + 10 + 36 + 63 + 14 + 6 = 163
+
+5) Dividir el Resultado por 11 y Obtener el Resto: 163 / 11 = 14,81818181818182 El resultado sin decimales es 14. Luego, multiplicamos 14 por 11: 14 x 11 = 154
+
+6) Restar Este Resultado (Paso 5) del Total (Paso 4): 163 – 154 = 9 (Tomar el Valor Absoluto)
+
+7) Restar el Resultado del Paso 6 de 11: 11 – 9 = 2
+
+El dígito verificador obtenido es 2, lo que significa que 27.962.409-2 es un RUT válido.
